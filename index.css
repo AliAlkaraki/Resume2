@@ -1,0 +1,289 @@
+@import "~@flaticon/flaticon-uicons/css/all/all";
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#con {
+    margin-right: 10px;
+    float: left;
+    background: #eeeeee;
+    width: 800px;
+    height: 1121px;
+    margin-left: 150px;
+}
+
+#dark {
+    background: #2b3743;
+    width: 34%;
+    height: 82.7%;
+    padding-top: 4%;
+}
+
+#dark, #light {
+    padding-left: 2.5%;
+}
+
+#light {
+    float: right;
+    background: #eeeeee;
+    width: 61%;
+    height: 80%;
+    padding-top: 2%;
+}
+
+#blue {
+    background: #548ca8;
+    width: 100%;
+    height: 11.9%;
+}
+
+#per {
+
+    color: #bfbfbf;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+#per img, #per p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#per p {
+    margin: 10px;
+}
+
+.hl {
+    border-top: 2px solid #bfbfbf;
+    width: 237px;
+    position: absolute;
+    left: 9.4%;
+}
+
+#hl1 {
+    top: 49%;
+}
+
+#hl2 {
+    top: 72%;
+}
+
+#hl3 {
+    top: 87.6%;
+}
+
+#hl4 {
+    top: 101%;
+}
+
+#dark p {
+    color: #bfbfbf;
+}
+
+#skl, #cer{
+    margin-top: 50px;
+}
+
+#dark h4, #dark ul {
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    font-size: 14px;
+    padding: 0;
+    font-weight: bold;
+}
+
+ul, #skl p, #hon p, #cer p, #int p {
+    font-size: 14px;
+}
+
+li::before {
+    font-weight: normal;
+    content: "•";
+    font-size: 20px; /* change this value to adjust the size */
+    position: absolute;
+    left: 9.4%;
+}
+
+
+#com li::before {
+    top: 56%;
+}
+
+#lang li::before {
+    top: 62.8%;
+}
+
+ul li {
+    padding-left: 20px;
+}
+
+#hon, #int {
+    margin-top: 62px;
+}
+
+#skl p, #hon p, #cer p, #int p {
+    color: #e4e4e5;
+}
+
+.hll {
+    border-top: 2px solid #2d2d2d;
+    width: 344px;
+    position: absolute;
+    left: 30.5%;
+}
+
+#hl5 {
+    top: 23.3%;
+}
+
+#hl6 {
+    top: 40.3%;
+    left: 31%;
+    width: 334px;
+}
+
+#hl7 {
+    top: 63.5%;
+    left: 34.5%;
+    width: 269px;
+}
+
+#hl8 {
+    top: 98%;
+    left: 31%;
+    width: 337px;
+}
+
+#obj {
+    width: 95%;
+    color: #2d2d2d;
+    margin-bottom: 50px;
+}
+
+#edu {
+
+}
+
+.dgray {
+    color: #4a4a4a;
+    margin-top: 0;
+}
+
+#light p {
+    font-size: 13.9px;
+}
+
+#edu p, #work p, #actv p {
+    margin-left: 22px;
+}
+
+
+#light h4, #light ul {
+    color: #2d2d2d;
+}
+
+.gray {
+    color: #909090;
+    margin-right: 43px;
+}
+
+#light ul {
+    margin-bottom: 5px;
+}
+
+.dis, .gray {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0;
+}
+
+#top li::before {
+    left: 24.8%;
+    top: 43.5%;
+}
+
+#top1 li::before {
+    left: 24.8%;
+    top: 52.5%;
+}
+
+#top2 li::before {
+    left: 24.8%;
+    top: 67%;
+}
+
+#top3 li::before {
+    left: 24.8%;
+    top: 79.3%;
+}
+
+#top4 li::before {
+    left: 24.8%;
+    top: 101%;
+}
+
+#work .dgray {
+    width: 442px;
+}
+
+#work .dis {
+    margin-left: 170px;
+}
+
+#man {
+    margin-right: 91px;
+}
+
+#actv .dis {
+    margin-left: 64px;
+}
+
+#work .dgray, #actv .dgray {
+    font-size: 13px;
+}
+
+#exp {
+    width: 450px;
+}
+
+h1 {
+    font-size: 38px;
+    color: white;
+    padding-top: 20px;
+    margin: auto;
+}
+
+h3, h1 {
+    padding-left: 15px;
+    color: white;
+    font-weight: lighter;
+}
+
+h3 {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+#inl, #blue img {
+    display: inline-block;
+}
+
+#blue img {
+    width: 133px;
+    height: 133px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+#dark2 {
+    background: #2b3743;
+    width: 36.5%;
+    height: 2.5%;
+}
+
