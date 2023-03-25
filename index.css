@@ -4,11 +4,16 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#right {
+    float: right;
+    margin-right: 135px;
+}
+
 #con {
     background: #eeeeee;
     width: 800px;
     height: 1121px;
-    margin-left: 150px;
+    margin-left: 135px;
 }
 
 #dark {
@@ -56,11 +61,11 @@ body {
     border-top: 2px solid #bfbfbf;
     width: 237px;
     position: absolute;
-    left: 9.4%;
+    left: 8.6%;
 }
 
 #hl1 {
-    top: 49%;
+    top: 48.5%;
 }
 
 #hl2 {
@@ -68,19 +73,23 @@ body {
 }
 
 #hl3 {
-    top: 87.6%;
+    top: 88.5%;
 }
 
 #hl4 {
-    top: 101%;
+    top: 102.5%;
 }
 
 #dark p {
     color: #bfbfbf;
 }
 
-#skl, #cer{
+#skl {
     margin-top: 50px;
+}
+
+#cer {
+    margin-top: 56px;
 }
 
 #dark h4, #dark ul {
@@ -101,18 +110,18 @@ ul, #skl p, #hon p, #cer p, #int p {
 li::before {
     font-weight: normal;
     content: "•";
-    font-size: 20px; /* change this value to adjust the size */
+    font-size: 21px; /* change this value to adjust the size */
     position: absolute;
-    left: 9.4%;
+    left: 8.6%;
 }
 
 
 #com li::before {
-    top: 56%;
+    top: 55.6%;
 }
 
 #lang li::before {
-    top: 62.8%;
+    top: 62.4%;
 }
 
 ul li {
@@ -129,37 +138,37 @@ ul li {
 
 .hll {
     border-top: 2px solid #2d2d2d;
-    width: 344px;
+    width: 330px;
     position: absolute;
     left: 30.5%;
 }
 
 #hl5 {
-    top: 23.3%;
+    top: 23.7%;
 }
 
 #hl6 {
-    top: 40.3%;
+    top: 40.4%;
     left: 31%;
-    width: 334px;
+    width: 321px;
 }
 
 #hl7 {
-    top: 63.5%;
-    left: 34.5%;
-    width: 269px;
+    top: 64.5%;
+    left: 34.9%;
+    width: 247px;
 }
 
 #hl8 {
-    top: 98%;
+    top: 102.5%;
     left: 31%;
-    width: 337px;
+    width: 325px;
 }
 
 #obj {
     width: 95%;
     color: #2d2d2d;
-    margin-bottom: 50px;
+    margin-bottom: 34px;
 }
 
 #edu {
@@ -200,28 +209,28 @@ ul li {
 }
 
 #top li::before {
-    left: 24.8%;
-    top: 43.5%;
+    left: 24%;
+    top: 43%;
 }
 
 #top1 li::before {
-    left: 24.8%;
-    top: 52.5%;
+    left: 24%;
+    top: 51.9%;
 }
 
 #top2 li::before {
-    left: 24.8%;
+    left: 24%;
     top: 67%;
 }
 
 #top3 li::before {
-    left: 24.8%;
-    top: 79.3%;
+    left: 24%;
+    top: 83.2%;
 }
 
 #top4 li::before {
-    left: 24.8%;
-    top: 101%;
+    left: 24%;
+    top: 105%;
 }
 
 #work .dgray {
@@ -244,10 +253,6 @@ ul li {
     font-size: 13px;
 }
 
-#exp {
-    width: 450px;
-}
-
 h1 {
     font-size: 38px;
     color: white;
@@ -256,7 +261,7 @@ h1 {
 }
 
 h3, h1 {
-    padding-left: 15px;
+    padding-left: 20px;
     color: white;
     font-weight: lighter;
 }
@@ -272,16 +277,59 @@ h3 {
 }
 
 #blue img {
-    width: 133px;
-    height: 133px;
-    float: right;
-    margin-right: 30px;
+    left: 39%;
+    top: 1.8%;
+    border: 7px solid white;
+    width: 160px;
+    height: 160px;
     border-radius: 100%;
+    position: absolute;
 }
 
 #dark2 {
     background: #2b3743;
     width: 36.5%;
-    height: 2.5%;
+    height: 2.6%;
 }
 
+#dark h4 {
+    font-weight: normal;
+    font-size: 19px;
+}
+
+#light h4 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.small {
+    height: 14px;
+}
+
+#lang {
+    margin-top: 15px;
+}
+
+.sim {
+    margin: 0px;
+}
+
+.st {
+    margin: 5px 0px;
+}
+
+.bot {
+    margin-top: 5px;
+}
+
+#top3 {
+    margin-top: 39px;
+}
+
+h4 {
+    margin-bottom: 16px;
+}
+
+#work, #actv {
+    margin-top: 32px;
+}
