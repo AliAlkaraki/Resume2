@@ -138,31 +138,31 @@ ul li {
 
 .hll {
     border-top: 2px solid #2d2d2d;
-    width: 330px;
+    width: 340px;
     position: absolute;
-    left: 30.5%;
+    left: 30%;
 }
 
 #hl5 {
-    top: 23.7%;
+    top: 23.5%;
 }
 
 #hl6 {
-    top: 40.4%;
-    left: 31%;
-    width: 321px;
+    top: 40.2%;
+    left: 30.5%;
+    width: 332px;
 }
 
 #hl7 {
-    top: 64.5%;
-    left: 34.9%;
-    width: 247px;
+    top: 64.2%;
+    left: 34.3%;
+    width: 259px;
 }
 
 #hl8 {
-    top: 102.5%;
-    left: 31%;
-    width: 325px;
+    top: 101.9%;
+    left: 30.5%;
+    width: 333px;
 }
 
 #obj {
@@ -299,7 +299,7 @@ h3 {
 
 #light h4 {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .small {
