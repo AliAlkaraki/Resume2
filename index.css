@@ -2,6 +2,7 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: -1.3px;
 }
 
 #right {
@@ -42,7 +43,6 @@ body {
 }
 
 #per {
-
     color: #bfbfbf;
     font-size: 15px;
     margin-left: 5px;
@@ -180,10 +180,6 @@ ul li {
     margin-top: 0;
 }
 
-#light p {
-    font-size: 13.9px;
-}
-
 #edu p, #work p, #actv p {
     margin-left: 22px;
 }
@@ -210,31 +206,31 @@ ul li {
 
 #top li::before {
     left: 24%;
-    top: 43%;
+    top: 42.7%;
 }
 
 #top1 li::before {
     left: 24%;
-    top: 51.9%;
+    top: 51.7%;
 }
 
 #top2 li::before {
     left: 24%;
-    top: 67%;
+    top: 66.7%;
 }
 
 #top3 li::before {
     left: 24%;
-    top: 83.2%;
+    top: 83%;
 }
 
 #top4 li::before {
     left: 24%;
-    top: 105%;
+    top: 104.5%;
 }
 
 #work .dgray {
-    width: 442px;
+    width: 453px;
 }
 
 #work .dis {
@@ -246,11 +242,15 @@ ul li {
 }
 
 #actv .dis {
-    margin-left: 64px;
+    margin-left: 126px;
 }
 
-#work .dgray, #actv .dgray {
-    font-size: 13px;
+#light p {
+    font-size: 13.9px;
+}
+
+#work .dgray, #actv .dgray, #obj .dgray {
+    font-size: 13.4px;
 }
 
 h1 {
@@ -267,9 +267,11 @@ h3, h1 {
 }
 
 h3 {
+    font-weight: 100;
     padding-top: 10px;
     padding-bottom: 30px;
     margin: 0;
+    letter-spacing: 2px;
 }
 
 #inl, #blue img {
@@ -307,7 +309,7 @@ h3 {
 }
 
 #lang {
-    margin-top: 15px;
+    margin-top: 24px;
 }
 
 .sim {
@@ -332,4 +334,18 @@ h4 {
 
 #work, #actv {
     margin-top: 32px;
+}
+
+#work #pres {
+    margin-left: 180px;
+}
+
+#edu .dis {
+    margin-left: 35px;
+}
+
+wht {
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
 }
