@@ -69,15 +69,15 @@ body {
 }
 
 #hl2 {
-    top: 72%;
+    top: 72.8%;
 }
 
 #hl3 {
-    top: 88.5%;
+    top: 89.6%;
 }
 
 #hl4 {
-    top: 102.5%;
+    top: 103.5%;
 }
 
 #dark p {
@@ -121,7 +121,7 @@ li::before {
 }
 
 #lang li::before {
-    top: 62.4%;
+    top: 63.4%;
 }
 
 ul li {
@@ -148,19 +148,19 @@ ul li {
 }
 
 #hl6 {
-    top: 40.2%;
+    top: 39.7%;
     left: 30.5%;
     width: 332px;
 }
 
 #hl7 {
-    top: 64.2%;
+    top: 63.7%;
     left: 34.3%;
     width: 259px;
 }
 
 #hl8 {
-    top: 101.9%;
+    top: 101.5%;
     left: 30.5%;
     width: 333px;
 }
@@ -206,27 +206,27 @@ ul li {
 
 #top li::before {
     left: 24%;
-    top: 42.7%;
+    top: 42.2%;
 }
 
 #top1 li::before {
     left: 24%;
-    top: 51.7%;
+    top: 51.2%;
 }
 
 #top2 li::before {
     left: 24%;
-    top: 66.7%;
+    top: 66.2%;
 }
 
 #top3 li::before {
     left: 24%;
-    top: 83%;
+    top: 82.5%;
 }
 
 #top4 li::before {
     left: 24%;
-    top: 104.5%;
+    top: 104%;
 }
 
 #work .dgray {
@@ -347,5 +347,4 @@ h4 {
 wht {
     color: white;
     font-weight: bold;
-    font-size: 13px;
 }
